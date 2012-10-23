@@ -15,5 +15,10 @@ public class Main {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        
+        System.out.print("1 Euro son "+Finanzas.dolarToEuro(1)+" Dolares");
+        
+        System.out.print("\n1 Dolar son "+Finanzas.euroToDolar(1)+" Euros");
     }
 }
