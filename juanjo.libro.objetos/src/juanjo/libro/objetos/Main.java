@@ -8,7 +8,7 @@ package juanjo.libro.objetos;
  *
  * @author alumno
  */
-public class JuanjoLibroObjetos {
+public class Main {
 
     /**
      * @param args the command line arguments
